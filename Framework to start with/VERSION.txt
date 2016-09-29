@@ -1,5 +1,0 @@
-Known bugs:
-Moving horizontal and colliding with a tile will result in next jump not carrying HorizontalVelocity. Resulting in 
-a vertical jump... Have to repress move to gain horizontal movement again.
-
-v0.1 - Collision seems to be working. Can still move through blocks when holding the movement keys down.
